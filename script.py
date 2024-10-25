@@ -7,7 +7,7 @@ COMMAND_KEYWORD = '!allat'
 CLIENT_SECRET = 'Xh6s_QX55KrGf-m8JIXH4WuFIaCsPQ'
 CLIENT_ID = 'IrOzq-JxT2yfxkDs4l_gIg'
 USER_AGENT = 'my_tldr_bot/0.1 by Constant-Ebb-4480'
-OPEN_API_KEY = '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'
+# OPEN_API_KEY = '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'
 
 reddit = praw.Reddit(
     client_id=CLIENT_ID,
